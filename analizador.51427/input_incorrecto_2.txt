@@ -1,2 +1,0 @@
-x = tierra
-output(5678)

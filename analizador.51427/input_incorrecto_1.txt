@@ -1,2 +1,0 @@
-x = mundo
-output(1234)
